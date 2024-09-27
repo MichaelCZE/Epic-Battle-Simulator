@@ -26,7 +26,7 @@ Player has three choices:
 #
 Attack damage has a random value based on their __Damage__ stat.
 __Defense__ is a passive stat.
-__Healing__ always gives __1-6 HP__ to player.
+__Healing__ always gives __1-5 HP__ to player.
 
 Game ends when one of the players loses all their health.
 ____
